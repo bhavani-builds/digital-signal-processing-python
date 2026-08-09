@@ -1,43 +1,41 @@
-# Digital Signal Processing Using Python
+# Digital Signal Processing with Python
 
-This repository contains Digital Signal Processing (DSP) concepts implemented using Python.
+A practical Digital Signal Processing project developed using Python, Machine Learning, and Deep Learning.
 
-## 01. Basic Discrete-Time Signals
+The project starts with basic DSP concepts and gradually progresses toward AI-based signal analysis and classification.
 
-The first experiment demonstrates the generation and visualization of basic discrete-time signals using NumPy and Matplotlib.
+---
 
-### Signals Generated
+## Project Overview
 
-- Unit Impulse Signal
-- Unit Step Signal
-- Ramp Signal
-- Exponential Signal
-- Sine Signal
-- Cosine Signal
+This repository demonstrates signal processing techniques using Python and explores how Machine Learning and Deep Learning can be applied to signal analysis.
 
 ### Technologies Used
 
 - Python
 - NumPy
 - Matplotlib
+- SciPy
+- Scikit-learn
+- TensorFlow
+- Keras
 
-### Output
+---
 
-The following figure shows the generated discrete-time signals.
+# Phase 1 — Digital Signal Processing
 
-![Figure 1](01_basic_signals/Figure_1.png)
+## 01 — Basic Signals
 
-### Learning Outcome
+Generation and visualization of basic discrete-time signals.
 
-This experiment provides a basic understanding of discrete-time signal representation and visualization using Python.
+Topics:
 
-## Future Topics
+- Sine signals
+- Cosine signals
+- Discrete-time representation
+- Signal visualization
 
-- Signal Operations
-- Convolution
-- Correlation
-- Sampling
-- DFT and FFT
-- Digital Filters
-- Machine Learning for Signal Processing
-- Deep Learning for Signal Processing
+Folder:
+
+```text
+01_basic_signals/
