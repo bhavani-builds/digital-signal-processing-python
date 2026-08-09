@@ -1,41 +1,84 @@
-# Digital Signal Processing with Python
+# Results
 
-A practical Digital Signal Processing project developed using Python, Machine Learning, and Deep Learning.
+## Signal Processing
 
-The project starts with basic DSP concepts and gradually progresses toward AI-based signal analysis and classification.
+### Basic Signals
 
----
+![Basic Signals](01_basic_signals/Figure_1.png)
 
-## Project Overview
+### Signal Operations
 
-This repository demonstrates signal processing techniques using Python and explores how Machine Learning and Deep Learning can be applied to signal analysis.
+![Signal Operations](02_signal_operations/Figure_2.png)
 
-### Technologies Used
+### Convolution
 
-- Python
-- NumPy
-- Matplotlib
-- SciPy
-- Scikit-learn
-- TensorFlow
-- Keras
+![Convolution](03_convolution/Figure_3.png)
 
----
+### Correlation
 
-# Phase 1 — Digital Signal Processing
+![Correlation](04_correlation/Figure_4.png)
 
-## 01 — Basic Signals
+### Sampling
 
-Generation and visualization of basic discrete-time signals.
+![Sampling](05_sampling/Figure_5.png)
 
-Topics:
+### FFT Analysis
 
-- Sine signals
-- Cosine signals
-- Discrete-time representation
-- Signal visualization
+![FFT Analysis](06_dft_fft/Figure_6.png)
 
-Folder:
+### Digital Filtering
 
-```text
-01_basic_signals/
+![Digital Filtering](07_digital_filters/Figure_7.png)
+
+
+# Machine Learning Results
+
+### Feature Distribution
+
+![Feature Distribution](09_feature_extraction/Figure_9.png)
+
+### Data Preprocessing
+
+![Data Preprocessing](10_data_preprocessing/Figure_10.png)
+
+### ML Classification
+
+![ML Classification](11_ml_classification/Figure_11.png)
+
+### Model Evaluation
+
+![Model Evaluation](12_model_evaluation/Figure_12.png)
+
+
+# Deep Learning Results
+
+### Spectrogram Analysis
+
+![Spectrogram](13_spectrogram_dataset/Figure_13.png)
+
+### CNN Training
+
+![CNN Training](14_cnn_classification/Figure_14.png)
+
+### CNN Evaluation
+
+![CNN Evaluation](15_cnn_evaluation/Figure_15.png)
+
+### ML vs DL
+
+![ML vs DL](16_ml_vs_dl/Figure_16.png)
+
+
+# AI Applications
+
+### Real-Time Classification
+
+Real-time signal classification is demonstrated using a trained machine learning model.
+
+### Noise Reduction
+
+![Noise Reduction](18_noise_reduction/Figure_18.png)
+
+### AI Signal Analysis
+
+![AI Signal Analysis](19_ai_signal_analysis/Figure_19.png)
